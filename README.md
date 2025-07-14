@@ -10,7 +10,6 @@ To get started, paste the following in your Terminal:
 
 ```
 /bin/bash -c "$(curl -fsSL https://cfocares.com/iterm/install.sh)"
-
 ```
 
 ✅ Minimal input  
